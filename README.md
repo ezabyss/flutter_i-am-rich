@@ -1,16 +1,19 @@
 # i_am_rich
+This project is inspired from :
 
-A material app that does nothing.
+The "I Am Rich" app is a famous (and often parodied) mobile application originally created for iOS by Armin Heinrich. 
+It served no functional purpose other than displaying a glowing red gem on the screen and an affirmation that the user is rich. 
+Its primary purpose was to make a bold, ironic statement about wealth and luxury, as it was priced at $999.99.
 
-## Getting Started
+## Goal
+To Create an app similar to "I Am Rich" Inspired from Armin Heinrich"
+----------------------------------------------------------------------
+![i_am_rich-screenshot](https://github.com/user-attachments/assets/3c023837-73b2-4681-a223-50f8f26fea03)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+> Learned from: udemy-flutter course by teacher @Anjela Yu [https://github.com/londonappbrewery]
+
